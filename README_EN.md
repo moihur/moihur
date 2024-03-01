@@ -23,10 +23,10 @@ I have been an analyst-programmer at IBM Mainframe z/OS since 2019.
 ## Skills and technology
 - GIT
 - COBOL z/OS
-- J.C.L.
+- JCL
 - CICS
 - CONTROL-M
--JIRA
+- JIRA
 - NOTION
--DB2
+- DB2
 ​
